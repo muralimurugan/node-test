@@ -1,4 +1,4 @@
 
 
-# install dependency npm i
-# to run in local npm run start
+# npm i
+# npm run start
